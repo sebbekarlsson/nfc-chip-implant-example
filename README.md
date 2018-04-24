@@ -3,6 +3,10 @@
 
 <img src='my-implant.jpg' width='250px'/>
 
+## Requirements
+> You will need to install:
+
+* nfcpy
 
 ## Example:
 > [__main__\.py](__main__\.py)
